@@ -1,0 +1,20 @@
+{
+  "name": "deneme",
+  "version": "0.0.1",
+  "main": "bot.js",
+  "dependencies": {
+    "aliases": "^1.0.0",
+    "chalk": "^2.4.1",
+    "discord.js": "^11.3.2",
+    "init": "^0.1.2",
+    "loader": "^2.1.1",
+    "moment": "^2.22.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "batuhan",
+  "license": "ISC",
+  "description": ""
+}

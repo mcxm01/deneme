@@ -45,4 +45,4 @@ client.on('message', msg => {
   }
 });
 
-client.login(ayarlar.token);
+client.login(NDcwMTk5MDc4MjgyNzIzMzI4.DjX4KA.KLLAepxQW8lWhjr2WcVd9F780x4);
